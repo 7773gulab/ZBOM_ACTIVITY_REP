@@ -1,0 +1,4 @@
+@EndUserText.label: 'BOM Activity Report'
+define service ZBOM_ACTIVITY_def {
+  expose ZBOM_ACTIVITY_CUBE as ZBOM_ACTIVITY_CDS;
+}

@@ -1,0 +1,35 @@
+{
+  "formatVersion": "2",
+  "header": {
+    "description": "BOM Activity Report",
+    "originalLanguage": "en",
+    "abapLanguageVersion": "cloudDevelopment"
+  },
+  "generalInformation": {
+    "appType": "ui5",
+    "catalogId": "SAP_TC_UI5_REPO_UIAD",
+    "targetMappingTitle": "BOM Activity Report"
+  },
+  "ui5AppDetails": {
+    "appId": "bomactvityreport.bomactivityrep"
+  },
+  "navigation": {
+    "targetMappingId": "UI5R_C410F759F401C80D5FF47E1CB60F00FEDA981D4E_TM",
+    "semanticObject": "ZBOM_ACT_REP_4",
+    "action": "ReportDisplay",
+    "desktop": true,
+    "tablet": true,
+    "phone": true
+  },
+  "tiles": [
+    {
+      "id": "UI5R_C410F759F401C80D5FF47E1CB60F00FEDA981D4E_AL",
+      "tileType": "static",
+      "isDefault": true,
+      "standard": {
+        "title": "BOM Activity Report",
+        "subtitle": "ZPP"
+      }
+    }
+  ]
+}
